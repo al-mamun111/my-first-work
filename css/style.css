@@ -1,0 +1,546 @@
+h1,h2,h3,h4,h5,p{
+    margin: 0;
+    padding: 0;
+}
+body{}
+.header{
+    display: inline-flex;
+    background: #000000d9;
+    width: 100%;
+    margin-bottom: 57px;
+}
+.logo{
+}
+.logo img{
+    width: 180px;
+    height: 140px;
+}
+.header nav{}
+.header nav ul{
+    margin-top: 87px;
+}
+.header nav ul li{
+    display: inline;
+}
+.header nav ul li a{
+    font-size: 13px;
+    padding: 10px;
+    background: gray;
+    color: white;
+    text-decoration: none;
+}
+.mamun{
+    padding: 08px;
+}
+.header nav ul li a:hover{
+    color: red;
+}
+.slider{}
+.box{
+    background: url(../images/race.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 150px;
+    width: 691px;
+    height: 222px;
+    border-radius: 20px;
+}
+.content{
+    width: 400px;
+    height: 211px;
+    background: #242e546b;
+    margin-left: 439px;
+    margin-top: 138px;
+    border-radius: 10px;
+}
+.content h1{
+    text-transform: uppercase;
+    font-size: 18px;
+    background: url(../images/mesmerized-rainbow.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 20px;
+    text-align: center;
+}
+.content p{
+    text-align: center;
+    color: ghostwhite;
+}
+.content button{
+    background: transparent;
+    color: darkturquoise;
+    padding: 10px;
+    font-size: 12px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    margin-left: 157px;
+    margin-top: 21px;
+}
+.boxone{
+    background: url(../images/race01.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 150px;
+    width: 691px;
+    height: 222px;
+    border-radius: 20px;
+}
+.boxtwo{
+    background: url(../images/race02.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 150px;
+    width: 691px;
+    height: 222px;
+    border-radius: 20px;
+}
+.boxthree{
+    background: url(../images/race03.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 150px;
+    width: 691px;
+    height: 222px;
+    border-radius: 20px;
+}
+.boxfour{
+    background: url(../images/race04.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 150px;
+    width: 691px;
+    height: 222px;
+    border-radius: 20px;
+}
+.traditional{
+    width: 900px;
+}
+.traditional h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 900;
+    background: url(../images/colorgul.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.traditionalsp{
+    display: inline-flex;
+    margin-bottom: 74px;
+}
+.traditionsp2{
+    display: inline-flex;
+}
+.tone{
+    width: 300px;
+    height: 300px;
+    background: #808080b3;
+    border-radius: 10px;
+    margin-left: 28px;
+    box-shadow: 4px 7px 6px black;
+}
+.tone img{
+    width: 300px;
+    height: 200px;
+    border-top-right-radius: 10px;
+}
+.tone h2{
+    font-size: 19px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.tone button{
+    padding: 10px;
+    border-radius: 10px;
+    color: blue;
+    border-top-right-radius: 47px;
+}
+
+
+.popular{
+    background: url(../images/wood-591631_1920.jpg);
+    margin-top: 135px;
+}
+.popular h1{
+    background: repeating-linear-gradient(45deg, black, transparent 100px);
+    color: blanchedalmond;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.nannu{
+    display: inline-flex;
+}
+.popularone{
+    width: 451px;
+    height: 300px;
+    background: #0b264240;
+    display: inline-flex;
+    margin-right: 82px;
+    margin-left: 5px;
+}
+.pimage{
+    width: 300px;
+    height: 311px;
+   
+}
+.pimage img{
+    width: 300px;
+    height: 311px;
+    margin-top: -21px;
+    border-radius: 19px;
+}
+.pcontent{}
+.pcontent h1{
+    font-size: 14px !important;
+}
+.pcontent p{
+    text-align: right;
+    color: gold;
+}
+.pcontent button{
+    padding: 5px;
+    border-right: -11px;
+    border-top-right-radius: 20px;
+    margin-top: 15px;
+}
+.pcontent top{
+    margin-top: 18px;
+
+    
+}
+.populartwo{
+    width: 450px;
+    height: 300px;
+    background: #0b264240;
+    display: inline-flex;
+    margin-left: -26px;
+}
+.owl{
+    margin-top: 100px;
+    border: 3px solid darkslategray;
+    background:url(../images/floor-1256804_1920.jpg);
+    background-size: 100% 100%;
+    height: 450px;
+}
+.owl-carousel{}
+.cc125{
+    border: 1px solid black;
+    margin-right: 10px;
+    background: white;
+    margin-top: 16px;
+    border-radius: 15px;
+    margin-top: 84px;
+}
+.cc125 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+}
+.cc125 h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(56, 1, 1);
+}
+.lightbox{
+    display: inline-flex;
+    margin-top: 200px;
+}
+.form{
+    width: 200px;
+    height: 211px;
+    margin-right: 13px;
+    background: lightslategrey;
+    border-radius: 17px;
+}
+.form img{
+    width: 100%;
+    height: 180px;
+}
+.form p{
+    text-align: center;
+}
+
+.keyfrem{
+    display: inline-flex;
+    margin-top: 554px;
+    border: 3px solid green;
+    margin-left: 29px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.keyfremone{
+    width: 350px;
+    height: 300px;
+    font-size: 18px;
+    color: red;
+    text-align: left;
+    animation: mamun infinite 20s;
+}
+.keyfremone button{
+    padding: 10px;
+    color: white;
+    margin-top: 263px;
+    margin-left: 128px;
+    color: red;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    text-decoration: underline;
+    background: transparent;
+}
+.keyfremtwo{
+    width: 350px;
+    height: 300px;
+    font-size: 18px;
+    color: red;
+    text-align: left;
+    animation: shrabon infinite 20s;
+    margin-left: 214px;
+}
+
+.keyfremtwo button{
+    padding: 10px;
+    color: white;
+    margin-top: 263px;
+    margin-left: 128px;
+    color: red;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    text-decoration: underline;
+    background: transparent;
+}
+@keyframes mamun {
+    0%{
+        background: url(../images/m1.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    25%{
+        background: url(../images/m2.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    50%{
+        background: url(../images/m3.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    75%{
+        background: url(../images/m4.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    100%{
+        background: url(../images/m5.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }      
+}
+
+@keyframes shrabon{
+    0%{
+        background: url(../images/r1.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    25%{
+        background: url(../images/r2.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    50%{
+        background: url(../images/r3.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    75%{
+        background: url(../images/r4.webp);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    100%{
+        background: url(../images/r5.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+}
+.location{
+    display: inline-flex;
+    width: 1000px;
+    margin-right: -22px;
+    margin-top: 124px;
+    background: url(../images/wall\ paper.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.youtube{
+    margin-left: 21px;
+}
+.youtube iframe{
+    width: 400px;
+    height: 300px;
+}
+.map{
+    margin-left: 143px;
+}
+.map iframe{
+    width: 400px;
+    height: 300px;
+}
+.footer{
+    background: black;
+}
+.footer h1{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: darkgrey;
+    padding-top: 24px;
+    margin-top: 0px;
+
+}
+.footer h2{
+    font-size: 22px;
+    text-align: center;
+    color: lightblue;
+    background: darkslategrey;
+
+
+}
+.footer h3{
+    font-size: 20px;
+    text-align: center;
+    color: ivory;
+    text-transform: uppercase;
+    
+}
+
+.card{
+    display: inline-flex;
+}
+.cardone{
+    width: 200px;
+    background: orange;
+}
+.cardone img{
+    width: 100%;
+
+}
+.cardone p{
+    text-align: center;
+    font-size: 15px;
+}
+.cardone button{
+    width: 100%;
+    padding: 10px;
+    background: black;
+    color: white;
+}
+
+
+.delear{
+    display: inline-flex;
+    margin-top: 74px;
+    margin-bottom: 72px;
+}
+.delearone{
+    width: 400px;
+    margin-left: 56px;
+
+}
+.delearone img{
+    width: 400px;
+    height: 450px;
+}
+.delearone h1{
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+.delearone p{}
+.delearone button{
+    width: 100%;
+    padding: 5px;
+    background: darkgray;
+    color: darkmagenta;
+    text-transform: uppercase;
+    border-radius: 7px;
+
+}
+.delearone button:hover{
+    background: black;
+    color:white;
+    transition: 1s;
+}
+
+
+.event{
+    margin-bottom: 60px;
+}
+.event h1{
+    margin-bottom: 17px;
+    font-size: 30px;
+}
+.event p{
+    margin-bottom: 37px;
+    font-size: 20px;
+}
+.eventsp{
+    display: inline-flex;
+}
+.eventone{
+   width: 560px;
+}
+.picone{
+    display: inline-flex;
+}
+.picone img{
+    width: 260px;
+    height: 170px;
+    margin-left: -5px;
+    margin-right: 10px;
+}
+
+.pictwo{
+    display: inline-flex;
+}
+.pictwo img{
+    width: 260px;
+    height: 170px;
+    margin-left: -5px;
+    margin-right: 10px;
+}
+
+.evcontent{
+    border-left: 2px solid #808080ba;
+    padding-left: 38px;
+}
+.evcontent h1{
+    font-size: 70px;
+}
+.evcontent h2{
+    font-size: 41px;
+    text-align: center;
+    margin-top: 30px;
+    color: #000000ab;
+}
+.evcontent h3{
+    font-size: 41px;
+    text-align: left;
+    color: #000000ab;
+}
+.evcontent button{
+    padding: 15px;
+    width: 156px;
+    margin-left: 107px;
+    margin-top: 57px;
+    border-radius: 5px;
+    font-size: 20px;
+    background: #648dd7;
+    color: white;
+}
+
+
+
+
